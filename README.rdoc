@@ -1,0 +1,17 @@
+Testing specs for recipes:
+
+name: string
+summary :text
+description: text 
+
+- Name must be present
+- Name must be between 5 characters and less than 100 characters
+- Sumarry must be present
+- Sumarry must be between 10 characters and less than 150 characters
+- Description must be present
+- Description must be between 20 and 500 characters
+- chef_id must be present.
+
+
+
+
